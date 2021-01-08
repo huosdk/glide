@@ -16,7 +16,7 @@ import java.util.List;
 @Deprecated
 public final class ManifestParser {
   private static final String TAG = "ManifestParser";
-  private static final String GLIDE_MODULE_VALUE = "GlideModule";
+  private static final String GLIDE_MODULE_VALUE = "HuoSdkGlideModule";
 
   private final Context context;
 
